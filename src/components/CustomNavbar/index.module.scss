@@ -1,0 +1,16 @@
+@import '../../styles';
+
+.NavBar {
+  width: 100vw;
+}
+
+.NavItem {
+  color: $primary-white !important;
+}
+
+.LogoImage {
+  width: 3rem;
+  height: auto;
+  display: inline-block;
+  margin: 0.1rem 0.4rem;
+}

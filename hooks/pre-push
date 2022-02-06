@@ -1,0 +1,18 @@
+#!/bin/bash
+
+protected_branch_master="master"
+protected_branch_develop="develop"
+current_branch=$(git symbolic-ref HEAD | sed -e 's,.*/\(.*\),\1,')
+
+if [ $protected_branch_master = $current_branch ]
+then
+    echo "Prevented force-push to protected branch \"$protected_branch_master\" by pre-push hook"
+    exit 1 # push will not execute
+fi
+if [ $protected_branch_develop = $current_branch ]
+then
+    echo "Prevented force-push to protected branch \"$protected_branch_develop\" by pre-push hook"
+    exit 1
+else
+    exit 0 # push will execute
+fi

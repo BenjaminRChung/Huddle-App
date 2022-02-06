@@ -1,0 +1,41 @@
+.LoginTitle {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.LoginBox {
+    padding: 5rem 0 5rem 0;
+    padding-left: 6rem !important;
+    padding-right: 6rem !important;
+    margin-top: 5rem;
+    border: 1px solid black;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 1rem;
+    width: 40rem !important;
+    background-color: #e2f0fc;
+}
+
+.RegisterLink {
+    color:#afafaf;
+    margin-left: 1rem;
+    text-align: right;
+    margin-bottom: 1rem;
+}
+
+.LoginButtons{
+    display: flex;
+    flex-direction: column;
+}
+
+.SigninBtn{
+    width: 100%;
+}
+
+.LoginForm{
+    margin-top: 2rem;
+}
+
+.FormInput{
+    text-align: left;
+    padding-bottom: 1rem;
+}
