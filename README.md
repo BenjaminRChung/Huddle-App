@@ -1,5 +1,6 @@
 # Huddle Application
-application built to help beginner developers improve quality of code. 
+**application built to help beginner developers improve quality of code./**
+Built to learn new technologies and help programmers :)
 
 ## Available Scripts
 
@@ -21,6 +22,4 @@ Ready to be deployed!
 
 This stops the scripts and closes application on localhost.
 
-To learn React, check out the [React documentation](https://reactjs.org/)./
-
-Built to learn new technologies and help programmers :)
+To learn React, check out the [React documentation](https://reactjs.org/).
