@@ -1,5 +1,5 @@
 # Huddle Application
-**application built to help beginner developers improve quality of code./**
+**application built to help beginner developers improve quality of code.** \
 Built to learn new technologies and help programmers :)
 
 ## Available Scripts
