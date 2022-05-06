@@ -1,6 +1,6 @@
 # Huddle Application
 
-Huddle is an application built to help beginner developers improve the quality of their code in a collaborative community. It was built with the idea of turning beginner developers from good -> great. Huddle hosts a community of **250+ active developers** to help each other and provide feedback on code snippets. Suggestions range from improving efficiency to providing other methods of solving the same solution. Huddle was built because as I was learning to code, learning different ways of improving upon my solution was a barrier many developers I noticed faced. 
+Huddle is an application built to help beginner developers improve the quality of their code in a collaborative community. It was built with the idea of turning beginner developers from good -> great. Huddle hosts a community of **250+ active developers** to help each other and provide feedback on code snippets. Suggestions range from improving efficiency to providing other methods of solving the same solution. Huddle was built because as I was learning to code, learning different ways of improving upon my solution was a barrier many developers I noticed faced. View a hosted version on Heroku! 
 
 ### Tools used: TypeScript, SCSS, CSS, HTML, JavaScript, React 
 
